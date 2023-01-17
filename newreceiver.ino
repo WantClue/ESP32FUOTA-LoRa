@@ -1,4 +1,4 @@
-// copyright by Lars Näther
+// copyright by WantClue
 //this implementation is been written for a heltec esp32 v2
 //needs to be adjusted to your personal use
 
