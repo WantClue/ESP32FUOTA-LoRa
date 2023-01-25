@@ -7,6 +7,7 @@ This is a method to update a Heltec ESP32 V2 over LoRa using the SPIFFS Filesyst
 1. **Arduino IDE 1.8.18 or lower.** [Download](https://www.arduino.cc/en/software/OldSoftwareReleases)
 2. **Two Heltec ESP32 V2**
 3. **SPIFFS Filesystem Plugin** [Tutorial](https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/)
+4. You will need the ESP32 Dev Board Manager and the U8g2 Libary by Oliver in the Arduino IDE aswell as the LoRa Libary by Sandeep Mistry
 
 ## Instructions
 
