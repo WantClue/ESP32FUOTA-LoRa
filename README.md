@@ -1,3 +1,4 @@
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/WantClue/ESP32FUOTA-LoRa/latest/total)
 # ESP32FUOTA-LoRa
 This is a method to update a Heltec ESP32 V2 over LoRa using the SPIFFS Filesystem.
 
